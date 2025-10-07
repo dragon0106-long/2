@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\流程控制 選擇結構\流程控制 選擇結構\bin\Debug\net8.0-windows\流程控制 選擇結構.exe
+C:\Users\user\Desktop\流程控制 選擇結構\流程控制 選擇結構\bin\Debug\net8.0-windows\流程控制 選擇結構.deps.json
+C:\Users\user\Desktop\流程控制 選擇結構\流程控制 選擇結構\bin\Debug\net8.0-windows\流程控制 選擇結構.runtimeconfig.json
+C:\Users\user\Desktop\流程控制 選擇結構\流程控制 選擇結構\bin\Debug\net8.0-windows\流程控制 選擇結構.dll
+C:\Users\user\Desktop\流程控制 選擇結構\流程控制 選擇結構\bin\Debug\net8.0-windows\流程控制 選擇結構.pdb
+C:\Users\user\Desktop\流程控制 選擇結構\流程控制 選擇結構\obj\Debug\net8.0-windows\流程控制_選擇結構.Form1.resources
+C:\Users\user\Desktop\流程控制 選擇結構\流程控制 選擇結構\obj\Debug\net8.0-windows\流程控制 選擇結構.csproj.GenerateResource.cache
+C:\Users\user\Desktop\流程控制 選擇結構\流程控制 選擇結構\obj\Debug\net8.0-windows\流程控制 選擇結構.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\流程控制 選擇結構\流程控制 選擇結構\obj\Debug\net8.0-windows\流程控制 選擇結構.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\流程控制 選擇結構\流程控制 選擇結構\obj\Debug\net8.0-windows\流程控制 選擇結構.AssemblyInfo.cs
+C:\Users\user\Desktop\流程控制 選擇結構\流程控制 選擇結構\obj\Debug\net8.0-windows\流程控制 選擇結構.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\流程控制 選擇結構\流程控制 選擇結構\obj\Debug\net8.0-windows\流程控制 選擇結構.dll
+C:\Users\user\Desktop\流程控制 選擇結構\流程控制 選擇結構\obj\Debug\net8.0-windows\refint\流程控制 選擇結構.dll
+C:\Users\user\Desktop\流程控制 選擇結構\流程控制 選擇結構\obj\Debug\net8.0-windows\流程控制 選擇結構.pdb
+C:\Users\user\Desktop\流程控制 選擇結構\流程控制 選擇結構\obj\Debug\net8.0-windows\流程控制 選擇結構.genruntimeconfig.cache
+C:\Users\user\Desktop\流程控制 選擇結構\流程控制 選擇結構\obj\Debug\net8.0-windows\ref\流程控制 選擇結構.dll

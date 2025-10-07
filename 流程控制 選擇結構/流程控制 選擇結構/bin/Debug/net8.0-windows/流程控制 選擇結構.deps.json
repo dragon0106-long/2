@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "流程控制 選擇結構/1.0.0": {
+        "runtime": {
+          "流程控制 選擇結構.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "流程控制 選擇結構/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
